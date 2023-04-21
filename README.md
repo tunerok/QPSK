@@ -7,7 +7,7 @@ Simulink file with QPSK modulation and demodulation implementation
 
 **Demodulation**
 
-![Demodulation](Demodulation.JPG)
+![Demodulation](demodulation.JPG)
 
 **Settings**
 
